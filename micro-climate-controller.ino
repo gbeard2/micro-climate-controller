@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-#include "DHT.h"
+#include "src/DHT/DHT.h"
 
 #define DHTPIN 13
 #define DHTTYPE DHT11
